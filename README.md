@@ -1,7 +1,7 @@
 # catchMe
 ## Simple game "Catch me if you can"
 
-Catch if you can - Game using jQuery Animation
+Catch me if you can - Game using jQuery Animation
 
 using jQuery Animation
 
